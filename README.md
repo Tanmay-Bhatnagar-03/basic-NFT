@@ -1,5 +1,5 @@
 # basic-NFT
-Built and deployed basic NFT using hardhat and OZ libraries for ERC 721 type contracts. <br />
+Built and deployed basic NFT using Hardhat and OZ libraries for ERC 721 type contracts. <br />
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
